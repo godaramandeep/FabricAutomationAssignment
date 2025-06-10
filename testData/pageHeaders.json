@@ -1,0 +1,13 @@
+{
+    "registrationPageHeader" : "Signing up is easy!",
+    "landingPageHeader" : "Welcome ",
+    "aboutUsPageHeader" : "ParaSoft Demo Website",
+    "contactPageHeader" : "Customer Care",
+    "openNewAccountPageHeader" : "Open New Account",
+    "openedAccountPageHeader" : "Account Opened!",
+    "accountsOverviewPageHeader" : "Accounts Overview",
+    "transferFundsPageHeader" : "Transfer Funds",
+    "afterTransferFundsPageHeader" : "Transfer Complete!",
+    "billPayPageHeader" : "Bill Payment Service",
+    "billPaymentCompletedPageHeader" : "Bill Payment Complete"
+}
